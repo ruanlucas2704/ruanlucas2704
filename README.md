@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi pessoal 👋
 
 <!--
 **ruanlucas2704/ruanlucas2704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
